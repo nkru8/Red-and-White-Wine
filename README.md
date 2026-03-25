@@ -1,3 +1,3 @@
-This is comparing attributed of red and white wine
+This is comparing attributes of red and white wine
 
 I used altair
